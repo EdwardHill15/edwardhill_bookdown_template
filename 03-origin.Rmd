@@ -1,6 +1,6 @@
 # The Origin of Consciousness
 
-
+ See Table \@ref(tab:iris-table)
 ```{r chunk-label, echo = FALSE, fig.cap = 'A figure caption.'}
 1 + 1
 rnorm(10)  # 10 random numbers

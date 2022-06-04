@@ -2,9 +2,11 @@
 
 Fig: \@ref(fig:chunk-label)
 
-```{r}
+```{r, iris-table, echo=FALSE}
+knitr::kable(
+  head(iris, 20), caption = 'This is the iris datatable',
+  booktabs = TRUE
+)
 
-iris
-head(iris)
 
 ```
