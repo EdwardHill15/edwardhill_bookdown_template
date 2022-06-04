@@ -6,9 +6,11 @@ site: bookdown::bookdown_site
 output: bookdown::gitbook
 ---
 
-```{r}
-library(vembedr)
-```
 
 # Panvibrational Vision
 
+
+```{r, echo = FALSE}
+library(vembedr)
+embed_youtube("NHMip21Hkp0")
+```
