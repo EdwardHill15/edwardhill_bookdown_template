@@ -1,4 +1,3 @@
-tab:iris
 fig:chunk-label
 panvibrational-vision
 the-nature-of-consciousness
