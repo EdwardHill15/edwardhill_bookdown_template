@@ -6,5 +6,9 @@ site: bookdown::bookdown_site
 output: bookdown::gitbook
 ---
 
+```{r}
+library(vembedr)
+```
+
 # Panvibrational Vision
 

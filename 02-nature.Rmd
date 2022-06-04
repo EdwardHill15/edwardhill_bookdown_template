@@ -7,6 +7,4 @@ knitr::kable(
   head(iris, 20), caption = 'This is the iris datatable',
   booktabs = TRUE
 )
-
-
 ```

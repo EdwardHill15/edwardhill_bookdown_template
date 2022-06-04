@@ -6,3 +6,10 @@
 rnorm(10)  # 10 random numbers
 plot(dist ~ speed, cars)  # a scatterplot
 ```
+
+```{r}
+library(vembedr)
+
+embed_youtube("ngZZRWp8zsg")
+
+```
