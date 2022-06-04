@@ -1,2 +1,7 @@
 # The Nature of Consciousness
 
+```{r}
+iris
+head(iris)
+
+```
