@@ -1,5 +1,7 @@
 # The Nature of Consciousness
 
+Fig: \@ref(fig:chunk-label)
+
 ```{r}
 iris
 head(iris)
