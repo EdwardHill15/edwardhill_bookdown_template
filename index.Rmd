@@ -3,6 +3,7 @@ title: "Panvibrational Vision on the Nature and Origin of Consciousness"
 author: "Edward Hill"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+output: bookdown::gitbook
 ---
 
 # Panvibrational Vision
